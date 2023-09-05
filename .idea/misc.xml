@@ -1,0 +1,71 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_bookmark_border_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_play_circle_24.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable-v24/ic_bookmark.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable-v24/ic_sad.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable-v24/ic_settings.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable-v24/ic_star.xml" value="0.1105" />
+        <entry key="app/src/main/res/drawable-v24/ic_trending.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable-v24/ic_video.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_drop_up_24.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_bookmark.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_error_placeholder.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_home_24.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_language_24.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_menu_book.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_covid.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_covid_vietnam.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_covid_world.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_favorite_article.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_find.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_find_article.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_latest_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_law_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_play_video.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_travel_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_trending.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_trending_pages.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_viet_nam_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/fragment_world_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_favorite.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_find_article.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_layout_video.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_news.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_news_row_trending.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/item_province.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_video.xml" value="0.15208333333333332" />
+        <entry key="app/src/main/res/layout/item_video_layout_detail.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/item_weather.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/news_row_layout.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/province_bottom_sheet.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/shimmer_placeholder_item_home.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/weather_bottom_sheet.xml" value="0.2703125" />
+        <entry key="app/src/main/res/menu/bottom_menu_covid.xml" value="0.2703125" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.171875" />
+        <entry key="app/src/main/res/menu/details_menu.xml" value="0.165" />
+        <entry key="app/src/main/res/menu/favorites_contextual_menu.xml" value="0.2703125" />
+        <entry key="app/src/main/res/menu/find_menu.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

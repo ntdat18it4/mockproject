@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="home">Trang Chủ</string>
+    <string name="news">Tin Chính</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="favorite">Đã Thích</string>
+    <string name="covid_19">COVID_19</string>
+    <string name="sing_out">Sing out</string>
+    <string name="storage">Lưu trữ</string>
+    <string name="delete">DELETE</string>
+    <string name="notify_favorite">Bạn chưa lưu bất kì tin bài nào để đọc sau</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="world">Thế Giới</string>
+    <string name="new_cases">Số ca mới</string>
+    <string name="load">Đang tải</string>
+    <string name="recovered">Đã hồi phục</string>
+    <string name="cases">Tổng số ca</string>
+    <string name="parameter">Thông số</string>
+    <string name="deaths">Số ca tử vong</string>
+    <string name="title_5k">Phòng chống dịch Covid-19</string>
+    <string name="title_1">Lau dọn đồ dùng</string>
+    <string name="title_2">Rửa tay</string>
+    <string name="title_3">Khẩu trang</string>
+    <string name="title_4">Không tụ tập</string>
+    <string name="title_5">Khoảng cách</string>
+    <string name="title_6">Khai báo ý tế</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp">°C</string>
+    <string name="source_weather">weather.com</string>
+    <string name="tv_description">5 tin bài hàng đầu ngay bây giờ</string>
+    <string name="name_app">News App</string>
+    <string name="gmail">xuanthao28021996@gmail.com</string>
+    <string name="text_splash">Google</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="save_pass">Nhớ mật khẩu</string>
+    <string name="edt_enter_pass">Nhập mật khẩu</string>
+    <string name="edt_enter_name">Nhập tên</string>
+    <string name="title_login">News</string>
+    <string name="log_out">Đăng xuất</string>
+    <string name="home_fragment">Home</string>
+    <string name="video_fragment">Video</string>
+    <string name="trending_fragment">Trending</string>
+    <string name="covid_fragment">Covid</string>
+    <string name="setting_fragment">Setting</string>
+    <string name="save_to_favorites">save to favorites</string>
+    <string name="no_favorite_article">No Favorite Article</string>
+
+    <string name="locate">Nơi sinh sống</string>
+    <string name="namelocation">Đà Nẵng</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+    <string name="saved_article">Tin đã lưu</string>
+    <string name="version">Phiên bản ứng dụng</string>
+    <string name="email">Gửi Email góp ý</string>
+    <string name="contact">Liên hệ</string>
+    <string name="delete_favorite_menu">Delete favorite</string>
+</resources>

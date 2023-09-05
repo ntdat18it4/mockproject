@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottomCovidVietnam"
+        android:icon="@drawable/vietnam"
+        android:title="@string/vietnam" />
+
+    <item
+        android:id="@+id/bottomCovidWorld"
+        android:icon="@drawable/world"
+        android:title="@string/world" />
+</menu>
